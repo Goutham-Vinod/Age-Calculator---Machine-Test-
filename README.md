@@ -1,3 +1,3 @@
-# flutter_application_1
+# Age Calculator
 
-A new Flutter project.
+Simple Age calculator app. You can enter your date of birth and see your age.
